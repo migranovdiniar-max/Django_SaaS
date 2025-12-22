@@ -1,7 +1,13 @@
 .vscode
 
-venv
+venv/
 
 .env
 
 __pycache__/
+
+src\staticfiles\vendors
+flowbite.min.js
+flowbite.min.css
+
+local-cdn/
